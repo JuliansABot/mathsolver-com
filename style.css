@@ -1,0 +1,59 @@
+div{
+  background-color: #000000;
+  display: inline-block;
+  text-align: center;
+  color: #d60202;
+  font-family: "aceme";
+}
+div-1{
+  border-style: double;
+  display: inline-block;
+  font-family: "aceme";
+  color: #d60202;
+}
+body{
+  background: url("https://cdn.glitch.global/c08e1ea7-a387-4cf7-94ae-f455332d9dba/Evening%20Sunshine%20(1).jpg?v=1683211238128");
+  margin: 0;
+}
+
+p1{
+  text-align: left;
+  color: #0f0252;
+  font-family: "aceme";
+}
+
+h1{
+  text-align: left;
+  color: #0f0252;
+  font-family: "aceme";
+}
+
+p{
+  color: #0f0252;
+  font-family: "acme";
+}
+
+iframe{
+  background-color: #ffffff
+    
+}
+footer{
+  color:#d60202;
+  
+}
+a{
+  color: #0f0252;
+}
+details{
+  color: #000000;
+}
+summary{
+  color: #0f0252;
+}
+summary1{
+  color: #000000;
+}
+Button{
+  color: #fc0303;
+  background-color:#000000;
+}
